@@ -244,7 +244,14 @@ function create_config( )
     "save",
     "sendplugin",
     "showplugin",
-    "voice"
+    "voice",
+    "aparat",
+    "arz",
+    "chat_sudo",
+    "echo",
+    "map",
+    "me",
+    "req"
     },
     sudo_users = {109092934},--Sudo users
     disabled_channels = {},
