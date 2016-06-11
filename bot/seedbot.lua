@@ -251,7 +251,22 @@ function create_config( )
     "echo",
     "map",
     "me",
-    "req"
+    "req",
+    "addsudo",
+    "setwelcome",
+    "sticker",
+    "sticker_maker",
+    "tagall",
+    "up",
+    "webshot",
+    "lock_fosh",
+    "lock_chat",
+    "lock_emoji",
+    "lock_english",
+    "lock_join",
+    "lock_media",
+    "lock_tag",
+    "supergroup"
     },
     sudo_users = {109092934},--Sudo users
     disabled_channels = {},
